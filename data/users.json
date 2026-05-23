@@ -1,0 +1,21 @@
+{
+  "last_id": 1,
+  "users": [
+    {
+      "id": 1,
+      "username": "bonapapa394",
+      "email": "bonapapa394@local.account",
+      "mobile": "0000000000",
+      "password_hash": "$2y$12$IUaZGpDa6YHMW7Fj2zq0nuQEFYLWPJAb.EWxu3HlGFMvgzGV/dP3C",
+      "email_verification_code": null,
+      "email_code_expires": null,
+      "email_verified_at": 1779340051,
+      "whatsapp_verification_code": null,
+      "whatsapp_code_expires": null,
+      "whatsapp_verified_at": 1779340051,
+      "role": "admin",
+      "created_at": 1779340051,
+      "updated_at": 1779562841
+    }
+  ]
+}

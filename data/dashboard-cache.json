@@ -1,0 +1,913 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-23T19:57:04.395Z",
+  "refreshSeconds": 60,
+  "marketStatus": {
+    "open": false,
+    "label": "CLOSED",
+    "detail": "Weekend / market close window"
+  },
+  "goldRisk": {
+    "label": "Risk Off",
+    "score": 100,
+    "tradeIdea": "Gold buy-dips: wait liquidity sweep + bullish confirmation.",
+    "drivers": [
+      {
+        "title": "WSJ: Critical Stage in Iran negotiations: Mediators rush to prevent military action",
+        "description": "The WSJ are reporting that negotiations over Iran are at a critical stage, with mediators urgently trying to secure at least a temporary framework agreement to prevent renewed U.S. and Israeli military action. The core dispute centers on how quickly Iran must make nuclear concessions in exchange for sanctions relief and an end to hostilities. While there has reportedly been modest diplomatic progress, both sides remain far apart, and officials warn that failure to reach even a limited understanding could trigger new strikes and broader regional escalation. You have to start somewhere and putting the effort to small steps diplomatically is still the favored path. However, the sticking points remain including what about the nuclear enrichment issue which seems to keep the two sides apart Main bullet points from the WSJ article Mediators are scrambling to prevent renewed U.S. and Israeli strikes on Iran, which officials say could happen within days if diplomacy fails. Pakistan, Qatar, and Saudi Arabia are deeply involved in negotiations, trying to bridge gaps between U.S. nuclear demands and Iran’s desire for a cease-fire and economic relief first. The immediate goal is not a formal agreement, but a temporary framework or memorandum of understanding to extend the cease-fire and allow more talks. A major sticking point remains whether Iran’s nuclear enrichment program must be addressed immediately or delayed until later negotiations. If talks fail, the U.S. and Israel are reportedly considering limited strikes on Iranian economic and energy targets to increase pressure on Tehran. Iran warned it would retaliate broadly against any renewed military action. Pakistan’s army chief Asim Munir is traveling to Iran, signaling the negotiations are at a critical stage. Marco Rubio said there has been “slight progress” in talks but reiterated that the U.S. insists Iran can never obtain a nuclear weapon. What Does Iran want? Iran wants a deal that would: End the conflict Reduce the risk of future attacks Reopen maritime trade routes Provide sanctions and financial relief Avoid immediate nuclear concessions What does the US want? The U.S. wants Iran to: Suspend uranium enrichment for an extended period Hand over near weapons-grade material Accept nuclear restrictions before broader sanctions relief The article notes that despite more than 20,000 strikes during the war, Iran has still not agreed to abandon its nuclear program. Meanwhile, Israel is reportedly worried that Donald Trump could agree to a deal that does not go far enough on Iran’s nuclear and missile capabilities. Netanyahu does not want to pursue diplomatic solutions thinking of them as a waste of time. Pres. Trump has reportedly told Netanyahu he would do what HE wants to do. Having said that Trump has said that he would strike Iran if a deal is not reached. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/wsj-critical-stage-in-iran-negotiations-mediators-rush-to-prevent-military-action-20260522/",
+        "publishedAt": "Fri, 22 May 2026 16:50:00 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 52,
+        "highImpact": false
+      },
+      {
+        "title": "investingLive Americas FX news wrap 22 May: Markets eye Iran talks, Fed signals now",
+        "description": "Stocks remain higher but off highs as hope fades ahead of the weekend for peace Sky News Arabia: Negotiations in Tehran have reached an agreement on nuclear issue Bakers Hughes total rig count 758 in the current week, Up 5 for the week WSJ: Critical Stage in Iran negotiations: Mediators rush to prevent military action New Fed Chair Warsh: Ours is a time of great consequence Trump: I expect Kevin Warsh to go down as one of the very best Fed Chairman. More Waller: Hawkish comments from the Fed Governor Feds Waller: Does not expect change in policy in the near term UMich May final consumer sentiment 44.8 vs 48.2 expected Reuters:Qatar send negotiating team to Tehran to help secure a end of war deal Fed interest rates explained at investingLive.com Canada retail sales for March 0.9% vs 0.6% estimate Canada April PPI +2.0% m/m vs +1.3% expected investingLive European markets wrap: A mixed mood amid cautious optimism on US-Iran talks ECB President Lagarde says ECB will follow a data-dependent, meeting-by-meeting approach The week is ended with markets focused squarely on the growing tension surrounding Iran, as negotiations entered what officials described as a critical stage. Mediators including Pakistan, Qatar, and Saudi Arabia worked urgently to secure at least a temporary framework agreement aimed at preventing renewed U.S. and Israeli military action. The diplomatic effort is centered on extending the cease-fire and buying time for broader negotiations, but major divisions remain — particularly over Iran’s uranium enrichment program and how quickly Tehran must make nuclear concessions in exchange for sanctions relief and an easing of hostilities. Reports indicated there has been only modest progress so far, with both sides still far apart. Iran is seeking sanctions relief, protection from future attacks, and the reopening of trade routes before making major nuclear concessions, while the U.S. is demanding tighter nuclear restrictions, including limits on enrichment and the surrender of near weapons-grade material, before broader relief is offered. Officials warned that if talks fail, the U.S. and Israel could consider renewed strikes, potentially targeting Iranian economic and energy infrastructure to increase pressure on Tehran. Iran responded by warning it would retaliate broadly against any new military action. The geopolitical backdrop remains highly uncertain. Israel is reportedly concerned that President Trump could agree to a deal viewed as too soft on Iran’s nuclear and missile programs, while Prime Minister Netanyahu remains skeptical that diplomacy will succeed. Trump has signaled he prefers a negotiated solution but also warned that military action remains on the table if an agreement cannot be reached. As a result, markets continue to react sharply to every headline tied to the negotiations, with oil prices, Treasury yields, stocks, and the US dollar all seeing heightened volatility into the weekend. PS Pres. Trump will remain in Washington for the weekend and will be missing his son's (Don Jr.). wedding in the Bahamas. The final University of Michigan consumer sentiment report for May painted a weaker picture of the US consumer than expected. The headline index fell to 44.8 from 48.2, marking a third straight monthly decline and pushing sentiment back near the historic lows from mid-2022. Higher gasoline prices tied to Strait of Hormuz supply disruptions remained a key concern, with 57% of consumers citing the rising cost of living as a financial strain. Lower-income households were hit the hardest. Most importantly for markets and the Fed, inflation expectations moved higher again. One-year expectations rose to 4.8% from 4.5%, while five-year expectations jumped to 3.9% from 3.4%, increasing concerns that inflation pressures could become more persistent. The report supports higher yields and a firmer US dollar as it lowers expectations for near-term Fed rate cuts, while also raising concerns about future consumer spending and growth. Fed Governor Christopher Waller reinforced the hawkish tone, pushing back strongly against expectations for near-term rate cuts. Waller said he does not expect to support a policy change anytime soon and warned that inflation risks tied to higher energy prices and rising inflation expectations are becoming more concerning. He said the labor market is now largely balanced, shifting the Fed’s focus squarely toward inflation. Waller warned the Fed’s inflation miss is entering its sixth year and said he would not hesitate to support a rate hike if inflation expectations become unanchored. While not actively calling for a hike now, he argued the Fed should remove its easing bias and said discussions about rate cuts are premature given current inflation pressures. He also noted consumer spending remains resilient and there is no sign the AI-driven investment boom is slowing. President Donald Trump formally swore in Kevin Warsh as the new Fed Chair, praising him as uniquely qualified to lead the institution while emphasizing Fed independence and the importance of sustaining strong economic growth. Trump argued that low inflation and strong growth can coexist and pointed to the stock market rally as evidence investors welcomed Warsh’s appointment. In his remarks, Warsh struck a confident, reform-oriented tone, pledging to lead the Fed with “energy and purpose” while remaining faithful to its mission. He said the years ahead could bring strong prosperity and rising living standards, emphasizing that lower inflation and strong growth are achievable together. Warsh also signaled a willingness to modernize the Fed and learn from both past mistakes and successes. Looking ahead, markets next week traders will focus on inflation, central banks, and geopolitical risks. The key event for the US will be Thursday’s core PCE inflation report — the Fed’s preferred inflation gauge — as Warsh begins his tenure facing elevated inflation expectations and persistent price pressures. Markets will also monitor consumer confidence, GDP revisions, housing data, and Fed speakers including Austan Goolsbee and John Williams. Globally, attention will turn to the RBNZ decision, BOJ commentary, Japan inflation data, China PMIs, and Canada GDP. Geopolitical headlines surrounding Iran remain the key wildcard, with oil, yields, stocks, and the US dollar continuing to react sharply to every new development. Thin holiday liquidity conditions early in the week could amplify volatility. A snapshot of the markets at the end of the week is showing: Dow Industrial Average +0.59% S&P Index +0.33% Nasdaq index. +0.11% For the trading week: Dow +2.10% S&P +0.83% Nasdaq +0.38% In the US debt market, yields are ending the day mixed with a flatter yield curve as the markets price in a hike in 2026 that may lead to slower growth. 2 year 4.123%, +3.6 basis points 5 year 4.256%, +0.01 basis points 10 year 4.558%, =2.6 basis points 30- year 5.064%, -4.7 basis points For the week: 2 year yield rose 4.4 basis points 5 year yield Unchanged 10 year yield -4.1 basis points 30 year yield -5.9 basis points Looking at the USD today, it was mixed vs the major currencies. The USD versus the:: EUR +0.10% JPY +0.12% GBP-0.08% CAD+0.23% CHF -0.245 AUD +0.22% NZD +0.27% For the week, the USD mixed as well. : EUR +0.15% JPY +0.28% GBP +0-.92% CHF -0.19% CAD +0.51% AUD +0.17% NZD -0.34% In other markets: Crude oil is near unchanged at $96.37 and down -4.73% for the week Gold is down -$36 on the day and down -$34 for the day or -0.73% Silver is down -$1.23 on the day at $75.45 and dowjn -0.46% on the week. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-may-markets-eye-iran-talks-fed-signals-now-20260522/",
+        "publishedAt": "Fri, 22 May 2026 20:16:12 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 24,
+        "highImpact": true
+      },
+      {
+        "title": "Sky News Arabia: Negotiations in Tehran have reached an agreement on nuclear issue",
+        "description": "Sky News Arabia is reporting: Negotiations in Tehran have reached an understanding on broad outlines regarding the nuclear issue. Delivery of Uranium would be linked to lifting the sanctions and would be gradual. Focused on an understanding regarding the Strait of Hormuz which is still in negotiations. Iran still wants American guarantees for any agreement reached. Crude oil has reached a new low at $94.73. The current price is at $95.84. That is the lowest level since May 8th. Price is down but the oil needs to flow to rebuild stockpiles and get prices lower.The Univ. of Michigan consumer sentiment sent a shot across the bow with sentiment lower due to higher gas prices and also higher inflation expectations. That is not a good optic. Kevin Warsh and Pres. Trump talked about reforming the Fed and that growth should not be always stifled \"just because\" implying you can have growth and some inflation. You can not have slowing growth and higher inflation though. The pressure is on to move to a solution. AAA gas prices going into the Memorial Day holiday is hanging around highs at $4.55. Stocks remain higher but off the highs as well. Dow is up $482 or 0.95% at 50769 S&P is up 50.27 points or 0.68% at 7497 Nasdaq is up 158 points or 0.61% at 26454 This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/sky-news-arabia-negotiations-in-tehran-have-reached-an-agreement-on-nuclear-issue-20260522/",
+        "publishedAt": "Fri, 22 May 2026 17:38:50 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 24,
+        "highImpact": true
+      },
+      {
+        "title": "New Fed Chair Warsh: Ours is a time of great consequence",
+        "description": "Thank you Pres. Trump Intend to fill roll with energy and purpose Look to faithful to the mission These years can bring unmatched prosperity, that will raise living standards. INflation can be lower, growth strong. I will lead a reform oriented Fed Will learn from past mistakes and successes. I will strive every day to serve our citizens well. It is an honor. Warsh becomes the 17th chair of the Federal Reserve. The Dow is up 9.75%, the S&P is up 0.59% and the Nasdaq is up 0.55%. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/centralbank/new-fed-chair-warsh-ours-is-a-time-of-great-consequence-20260522/",
+        "publishedAt": "Fri, 22 May 2026 16:15:31 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 14,
+        "highImpact": true
+      },
+      {
+        "title": "Trump: I expect Kevin Warsh to go down as one of the very best Fed Chairman.",
+        "description": "President Trump swears in Kevin Warsh as the new Fed Chair in a White House ceremony: I expect Kevin Warsh to go down as one of the very best Fed Chairman. No one is better to lead the Fed, than Kevin Warsh. Has the deepest respect for the institution The Fed is the pillar of the world financial system. Do not look at me. Do your own thing. Be independent. Kevin will safeguard the Fed's Independence When the economy is booming that is a good thing Trump wants to stop inflation but does not want to stop greatness. Warsh is looking to create economic growth. You do not have to stop the world. The stock market is up 600 points. That means the market likes you. Warsh will have full support of my administration. I told China Xi, we had the best military in the world, he did not disagree. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/centralbank/trump-i-expect-kevin-warsh-to-go-down-as-one-of-the-very-best-fed-chairman-20260522/",
+        "publishedAt": "Fri, 22 May 2026 16:03:04 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 14,
+        "highImpact": true
+      },
+      {
+        "title": "Stocks remain higher but off highs as hope fades ahead of the weekend for peace",
+        "description": "As the week comes to a close, US stocks are giving back some of their earlier gains. The major indices remain higher on the day, with the Dow up 0.74%, the S&P up 0.46%, and the Nasdaq higher by 0.23%, but all are well off their session highs as traders react to the latest geopolitical headlines. The focus remains on Iran, where reports suggest officials are demanding an end to the conflict from all sides, the lifting of blockades, and the release of frozen funds as part of any broader agreement. At the same time, reports indicate President Trump is growing increasingly frustrated with the situation. He has adjusted his schedule to remain in Washington during the heightened tensions and is expected to miss his son’s wedding this weekend. Reports suggest the event is a small private ceremony in the Bahamas with around 50 guests. It may have been too risky or cumbersome anyway. It is getting tiring. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/stocks-remain-higher-but-off-highs-as-hope-fades-ahead-of-the-weekend-for-peace-20260522/",
+        "publishedAt": "Fri, 22 May 2026 19:28:02 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 12,
+        "highImpact": false
+      }
+    ],
+    "formula": "Gold risk score = RSS/JSON headline score + price trend + COT score + volatility risk filter."
+  },
+  "usdRisk": {
+    "label": "USD Bullish",
+    "score": 64,
+    "drivers": [
+      {
+        "title": "South Korea: Hawkish BoK tilt supports Won – ING",
+        "description": "ING economists Min Joo Kang and Lynn Song expect the Bank of Korea to leave policy rates unchanged this week but to adopt a more hawkish tone. They see updated dot plots pointing to one or two rate hikes within six months, alongside upgraded GDP and CPI forecasts.",
+        "link": "https://www.fxstreet.com/news/south-korea-hawkish-bok-tilt-supports-won-ing-202605221734",
+        "publishedAt": "Fri, 22 May 2026 17:34:37 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news",
+        "score": 14,
+        "highImpact": true
+      },
+      {
+        "title": "Gold price slips as Waller’s hawkish comments lift USD",
+        "description": "Gold price edges lower during the day as the Greenback recovers some ground amid doubts that the US and Iran could reach a deal to end the conflict, and traders are pricing in a Federal Reserve (Fed) rate hike by the end of the year. At the time of writing, XAU/USD trades at $4,518, down 0.50%.",
+        "link": "https://www.fxstreet.com/news/gold-price-slips-as-wallers-hawkish-comments-lift-usd-202605221810",
+        "publishedAt": "Fri, 22 May 2026 18:10:58 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news",
+        "score": 13,
+        "highImpact": true
+      },
+      {
+        "title": "Dow Jones Industrial Average shrugs off a hawkish new Fed chair to set a record",
+        "description": "There is confident, and then there is Friday. The Dow Jones Industrial Average (DJIA) ground out a fresh all-time high, up around a quarter of a percent, on a day that gave it nothing to celebrate.",
+        "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-shrugs-off-a-hawkish-new-fed-chair-to-set-a-record-202605221715",
+        "publishedAt": "Fri, 22 May 2026 17:15:35 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news",
+        "score": 13,
+        "highImpact": true
+      },
+      {
+        "title": "investingLive Americas FX news wrap 22 May: Markets eye Iran talks, Fed signals now",
+        "description": "Stocks remain higher but off highs as hope fades ahead of the weekend for peace Sky News Arabia: Negotiations in Tehran have reached an agreement on nuclear issue Bakers Hughes total rig count 758 in the current week, Up 5 for the week WSJ: Critical Stage in Iran negotiations: Mediators rush to prevent military action New Fed Chair Warsh: Ours is a time of great consequence Trump: I expect Kevin Warsh to go down as one of the very best Fed Chairman. More Waller: Hawkish comments from the Fed Governor Feds Waller: Does not expect change in policy in the near term UMich May final consumer sentiment 44.8 vs 48.2 expected Reuters:Qatar send negotiating team to Tehran to help secure a end of war deal Fed interest rates explained at investingLive.com Canada retail sales for March 0.9% vs 0.6% estimate Canada April PPI +2.0% m/m vs +1.3% expected investingLive European markets wrap: A mixed mood amid cautious optimism on US-Iran talks ECB President Lagarde says ECB will follow a data-dependent, meeting-by-meeting approach The week is ended with markets focused squarely on the growing tension surrounding Iran, as negotiations entered what officials described as a critical stage. Mediators including Pakistan, Qatar, and Saudi Arabia worked urgently to secure at least a temporary framework agreement aimed at preventing renewed U.S. and Israeli military action. The diplomatic effort is centered on extending the cease-fire and buying time for broader negotiations, but major divisions remain — particularly over Iran’s uranium enrichment program and how quickly Tehran must make nuclear concessions in exchange for sanctions relief and an easing of hostilities. Reports indicated there has been only modest progress so far, with both sides still far apart. Iran is seeking sanctions relief, protection from future attacks, and the reopening of trade routes before making major nuclear concessions, while the U.S. is demanding tighter nuclear restrictions, including limits on enrichment and the surrender of near weapons-grade material, before broader relief is offered. Officials warned that if talks fail, the U.S. and Israel could consider renewed strikes, potentially targeting Iranian economic and energy infrastructure to increase pressure on Tehran. Iran responded by warning it would retaliate broadly against any new military action. The geopolitical backdrop remains highly uncertain. Israel is reportedly concerned that President Trump could agree to a deal viewed as too soft on Iran’s nuclear and missile programs, while Prime Minister Netanyahu remains skeptical that diplomacy will succeed. Trump has signaled he prefers a negotiated solution but also warned that military action remains on the table if an agreement cannot be reached. As a result, markets continue to react sharply to every headline tied to the negotiations, with oil prices, Treasury yields, stocks, and the US dollar all seeing heightened volatility into the weekend. PS Pres. Trump will remain in Washington for the weekend and will be missing his son's (Don Jr.). wedding in the Bahamas. The final University of Michigan consumer sentiment report for May painted a weaker picture of the US consumer than expected. The headline index fell to 44.8 from 48.2, marking a third straight monthly decline and pushing sentiment back near the historic lows from mid-2022. Higher gasoline prices tied to Strait of Hormuz supply disruptions remained a key concern, with 57% of consumers citing the rising cost of living as a financial strain. Lower-income households were hit the hardest. Most importantly for markets and the Fed, inflation expectations moved higher again. One-year expectations rose to 4.8% from 4.5%, while five-year expectations jumped to 3.9% from 3.4%, increasing concerns that inflation pressures could become more persistent. The report supports higher yields and a firmer US dollar as it lowers expectations for near-term Fed rate cuts, while also raising concerns about future consumer spending and growth. Fed Governor Christopher Waller reinforced the hawkish tone, pushing back strongly against expectations for near-term rate cuts. Waller said he does not expect to support a policy change anytime soon and warned that inflation risks tied to higher energy prices and rising inflation expectations are becoming more concerning. He said the labor market is now largely balanced, shifting the Fed’s focus squarely toward inflation. Waller warned the Fed’s inflation miss is entering its sixth year and said he would not hesitate to support a rate hike if inflation expectations become unanchored. While not actively calling for a hike now, he argued the Fed should remove its easing bias and said discussions about rate cuts are premature given current inflation pressures. He also noted consumer spending remains resilient and there is no sign the AI-driven investment boom is slowing. President Donald Trump formally swore in Kevin Warsh as the new Fed Chair, praising him as uniquely qualified to lead the institution while emphasizing Fed independence and the importance of sustaining strong economic growth. Trump argued that low inflation and strong growth can coexist and pointed to the stock market rally as evidence investors welcomed Warsh’s appointment. In his remarks, Warsh struck a confident, reform-oriented tone, pledging to lead the Fed with “energy and purpose” while remaining faithful to its mission. He said the years ahead could bring strong prosperity and rising living standards, emphasizing that lower inflation and strong growth are achievable together. Warsh also signaled a willingness to modernize the Fed and learn from both past mistakes and successes. Looking ahead, markets next week traders will focus on inflation, central banks, and geopolitical risks. The key event for the US will be Thursday’s core PCE inflation report — the Fed’s preferred inflation gauge — as Warsh begins his tenure facing elevated inflation expectations and persistent price pressures. Markets will also monitor consumer confidence, GDP revisions, housing data, and Fed speakers including Austan Goolsbee and John Williams. Globally, attention will turn to the RBNZ decision, BOJ commentary, Japan inflation data, China PMIs, and Canada GDP. Geopolitical headlines surrounding Iran remain the key wildcard, with oil, yields, stocks, and the US dollar continuing to react sharply to every new development. Thin holiday liquidity conditions early in the week could amplify volatility. A snapshot of the markets at the end of the week is showing: Dow Industrial Average +0.59% S&P Index +0.33% Nasdaq index. +0.11% For the trading week: Dow +2.10% S&P +0.83% Nasdaq +0.38% In the US debt market, yields are ending the day mixed with a flatter yield curve as the markets price in a hike in 2026 that may lead to slower growth. 2 year 4.123%, +3.6 basis points 5 year 4.256%, +0.01 basis points 10 year 4.558%, =2.6 basis points 30- year 5.064%, -4.7 basis points For the week: 2 year yield rose 4.4 basis points 5 year yield Unchanged 10 year yield -4.1 basis points 30 year yield -5.9 basis points Looking at the USD today, it was mixed vs the major currencies. The USD versus the:: EUR +0.10% JPY +0.12% GBP-0.08% CAD+0.23% CHF -0.245 AUD +0.22% NZD +0.27% For the week, the USD mixed as well. : EUR +0.15% JPY +0.28% GBP +0-.92% CHF -0.19% CAD +0.51% AUD +0.17% NZD -0.34% In other markets: Crude oil is near unchanged at $96.37 and down -4.73% for the week Gold is down -$36 on the day and down -$34 for the day or -0.73% Silver is down -$1.23 on the day at $75.45 and dowjn -0.46% on the week. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-may-markets-eye-iran-talks-fed-signals-now-20260522/",
+        "publishedAt": "Fri, 22 May 2026 20:16:12 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 11,
+        "highImpact": true
+      },
+      {
+        "title": "Sky News Arabia: Negotiations in Tehran have reached an agreement on nuclear issue",
+        "description": "Sky News Arabia is reporting: Negotiations in Tehran have reached an understanding on broad outlines regarding the nuclear issue. Delivery of Uranium would be linked to lifting the sanctions and would be gradual. Focused on an understanding regarding the Strait of Hormuz which is still in negotiations. Iran still wants American guarantees for any agreement reached. Crude oil has reached a new low at $94.73. The current price is at $95.84. That is the lowest level since May 8th. Price is down but the oil needs to flow to rebuild stockpiles and get prices lower.The Univ. of Michigan consumer sentiment sent a shot across the bow with sentiment lower due to higher gas prices and also higher inflation expectations. That is not a good optic. Kevin Warsh and Pres. Trump talked about reforming the Fed and that growth should not be always stifled \"just because\" implying you can have growth and some inflation. You can not have slowing growth and higher inflation though. The pressure is on to move to a solution. AAA gas prices going into the Memorial Day holiday is hanging around highs at $4.55. Stocks remain higher but off the highs as well. Dow is up $482 or 0.95% at 50769 S&P is up 50.27 points or 0.68% at 7497 Nasdaq is up 158 points or 0.61% at 26454 This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/sky-news-arabia-negotiations-in-tehran-have-reached-an-agreement-on-nuclear-issue-20260522/",
+        "publishedAt": "Fri, 22 May 2026 17:38:50 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 2,
+        "highImpact": true
+      },
+      {
+        "title": "New Fed Chair Warsh: Ours is a time of great consequence",
+        "description": "Thank you Pres. Trump Intend to fill roll with energy and purpose Look to faithful to the mission These years can bring unmatched prosperity, that will raise living standards. INflation can be lower, growth strong. I will lead a reform oriented Fed Will learn from past mistakes and successes. I will strive every day to serve our citizens well. It is an honor. Warsh becomes the 17th chair of the Federal Reserve. The Dow is up 9.75%, the S&P is up 0.59% and the Nasdaq is up 0.55%. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/centralbank/new-fed-chair-warsh-ours-is-a-time-of-great-consequence-20260522/",
+        "publishedAt": "Fri, 22 May 2026 16:15:31 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/",
+        "score": 2,
+        "highImpact": true
+      }
+    ],
+    "formula": "USD risk score = USD headline score + DXY momentum filter."
+  },
+  "usdIndex": {
+    "value": 99.319,
+    "changePct": 0.081,
+    "direction": "up",
+    "source": "Yahoo Finance chart proxy"
+  },
+  "volatility": [
+    {
+      "asset": "XAUUSD",
+      "label": "High",
+      "score": 18.47,
+      "rangePct": 1.304,
+      "hv": 22.6,
+      "formula": "Composite = 12×recent range% + annualized HV/8"
+    },
+    {
+      "asset": "EURUSD",
+      "label": "Low",
+      "score": 4.19,
+      "rangePct": 0.29,
+      "hv": 5.7,
+      "formula": "Composite = 12×recent range% + annualized HV/8"
+    },
+    {
+      "asset": "GBPUSD",
+      "label": "Low",
+      "score": 4.74,
+      "rangePct": 0.327,
+      "hv": 6.51,
+      "formula": "Composite = 12×recent range% + annualized HV/8"
+    }
+  ],
+  "sessions": [
+    {
+      "key": "sydney",
+      "name": "Sydney",
+      "start": "21:00",
+      "end": "06:00",
+      "timezone": "UTC",
+      "open": false,
+      "display": "21:00–06:00 UTC"
+    },
+    {
+      "key": "tokyo",
+      "name": "Tokyo",
+      "start": "00:00",
+      "end": "09:00",
+      "timezone": "UTC",
+      "open": false,
+      "display": "00:00–09:00 UTC"
+    },
+    {
+      "key": "london",
+      "name": "London",
+      "start": "08:00",
+      "end": "17:00",
+      "timezone": "UTC",
+      "open": false,
+      "display": "08:00–17:00 UTC"
+    },
+    {
+      "key": "newyork",
+      "name": "New York",
+      "start": "13:00",
+      "end": "22:00",
+      "timezone": "UTC",
+      "open": false,
+      "display": "13:00–22:00 UTC"
+    }
+  ],
+  "sessionConfigFile": "data/session-config.json",
+  "currencyStrength": [
+    {
+      "currency": "CHF",
+      "value": 5.6,
+      "move": 0.216,
+      "status": "neutral"
+    },
+    {
+      "currency": "USD",
+      "value": 5.4,
+      "move": 0.16,
+      "status": "neutral"
+    },
+    {
+      "currency": "GBP",
+      "value": 5.1,
+      "move": 0.03,
+      "status": "neutral"
+    },
+    {
+      "currency": "JPY",
+      "value": 4.6,
+      "move": -0.13,
+      "status": "neutral"
+    },
+    {
+      "currency": "EUR",
+      "value": 4.5,
+      "move": -0.163,
+      "status": "neutral"
+    },
+    {
+      "currency": "AUD",
+      "value": 4.1,
+      "move": -0.308,
+      "status": "neutral"
+    },
+    {
+      "currency": "CAD",
+      "value": 4,
+      "move": -0.341,
+      "status": "weak"
+    },
+    {
+      "currency": "NZD",
+      "value": 3.8,
+      "move": -0.425,
+      "status": "weak"
+    }
+  ],
+  "assets": [
+    {
+      "key": "EURUSD",
+      "label": "EUR/USD"
+    },
+    {
+      "key": "GBPUSD",
+      "label": "GBP/USD"
+    },
+    {
+      "key": "USDJPY",
+      "label": "USD/JPY"
+    },
+    {
+      "key": "USDCHF",
+      "label": "USD/CHF"
+    },
+    {
+      "key": "USDCAD",
+      "label": "USD/CAD"
+    },
+    {
+      "key": "AUDUSD",
+      "label": "AUD/USD"
+    },
+    {
+      "key": "NZDUSD",
+      "label": "NZD/USD"
+    },
+    {
+      "key": "XAUUSD",
+      "label": "Gold / XAUUSD"
+    },
+    {
+      "key": "XAGUSD",
+      "label": "Silver / XAGUSD"
+    },
+    {
+      "key": "OIL",
+      "label": "WTI Crude Oil"
+    },
+    {
+      "key": "BTCUSD",
+      "label": "Bitcoin / BTC"
+    },
+    {
+      "key": "ETHUSD",
+      "label": "Ethereum / ETH"
+    }
+  ],
+  "smcBiases": [
+    {
+      "key": "EURUSD",
+      "label": "EUR/USD",
+      "score": 6.9,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 1.1605,
+      "changePct": -0.163,
+      "volatility": {
+        "asset": "EURUSD",
+        "label": "Low",
+        "score": 4.19,
+        "rangePct": 0.29,
+        "hv": 5.7,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "EURO FX",
+        "index": 84,
+        "trend": "up",
+        "net": -66535,
+        "change": 12519
+      },
+      "components": {
+        "trend": -14,
+        "cot": 48.8,
+        "news": -22,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "GBPUSD",
+      "label": "GBP/USD",
+      "score": 1.5,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 1.3434,
+      "changePct": 0.03,
+      "volatility": {
+        "asset": "GBPUSD",
+        "label": "Low",
+        "score": 4.74,
+        "rangePct": 0.327,
+        "hv": 6.51,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "BRITISH POUND",
+        "index": 66,
+        "trend": "up",
+        "net": 68698,
+        "change": 24047
+      },
+      "components": {
+        "trend": -11.6,
+        "cot": 27.2,
+        "news": -22,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "USDJPY",
+      "label": "USD/JPY",
+      "score": 25.8,
+      "bias": "Bullish",
+      "direction": "bullish",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 159.155,
+      "changePct": 0.13,
+      "volatility": {
+        "asset": "USDJPY",
+        "label": "Low",
+        "score": 3.41,
+        "rangePct": 0.24,
+        "hv": 4.22,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "EURO FX/JAPANESE YEN XRATE",
+        "index": 92,
+        "trend": "up",
+        "net": -5115,
+        "change": 97
+      },
+      "components": {
+        "trend": -13.6,
+        "cot": 58.4,
+        "news": 56.7,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "USDCHF",
+      "label": "USD/CHF",
+      "score": 38.8,
+      "bias": "Bullish",
+      "direction": "bullish",
+      "plan": "Bullish bias from trend/COT/news confluence. Look for discount retest and bullish displacement.",
+      "price": 0.7847,
+      "changePct": -0.216,
+      "volatility": {
+        "asset": "USDCHF",
+        "label": "Low",
+        "score": 6.69,
+        "rangePct": 0.486,
+        "hv": 6.9,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "SWISS FRANC",
+        "index": 93,
+        "trend": "up",
+        "net": 46775,
+        "change": 2495
+      },
+      "components": {
+        "trend": 14.6,
+        "cot": 59.6,
+        "news": 56.7,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "USDCAD",
+      "label": "USD/CAD",
+      "score": 5.5,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 1.382,
+      "changePct": 0.341,
+      "volatility": {
+        "asset": "USDCAD",
+        "label": "Low",
+        "score": 5.41,
+        "rangePct": 0.407,
+        "hv": 4.23,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "CANADIAN DOLLAR",
+        "index": 39,
+        "trend": "up",
+        "net": 35724,
+        "change": 22007
+      },
+      "components": {
+        "trend": -16.1,
+        "cot": -5.2,
+        "news": 56.7,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "AUDUSD",
+      "label": "AUD/USD",
+      "score": -23.7,
+      "bias": "Bearish",
+      "direction": "bearish",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 0.713,
+      "changePct": -0.308,
+      "volatility": {
+        "asset": "AUDUSD",
+        "label": "Low",
+        "score": 7.17,
+        "rangePct": 0.5,
+        "hv": 9.35,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "AUSTRALIAN DOLLAR",
+        "index": 1,
+        "trend": "up",
+        "net": -109572,
+        "change": 2231
+      },
+      "components": {
+        "trend": -15.7,
+        "cot": -50.8,
+        "news": -22,
+        "volatility": 3
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "NZDUSD",
+      "label": "NZD/USD",
+      "score": -7.2,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Neutral structure. Wait for previous high/low sweep before selecting direction.",
+      "price": 0.5851,
+      "changePct": -0.425,
+      "volatility": {
+        "asset": "NZDUSD",
+        "label": "Medium",
+        "score": 8.47,
+        "rangePct": 0.611,
+        "hv": 9.09,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "NZ DOLLAR",
+        "index": 57,
+        "trend": "up",
+        "net": 43497,
+        "change": 1980
+      },
+      "components": {
+        "trend": -17.1,
+        "cot": 16.4,
+        "news": -22,
+        "volatility": 0
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "XAUUSD",
+      "label": "Gold / XAUUSD",
+      "score": 22.3,
+      "bias": "Bullish",
+      "direction": "bullish",
+      "plan": "Mixed bias with high volatility. Use confirmation only and reduce position size.",
+      "price": 4523.2,
+      "changePct": -0.425,
+      "volatility": {
+        "asset": "XAUUSD",
+        "label": "High",
+        "score": 18.47,
+        "rangePct": 1.304,
+        "hv": 22.6,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "GOLD",
+        "index": 100,
+        "trend": "up",
+        "net": -191629,
+        "change": 18629
+      },
+      "components": {
+        "trend": -17.1,
+        "cot": 60,
+        "news": 100,
+        "volatility": -8
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "XAGUSD",
+      "label": "Silver / XAGUSD",
+      "score": 16.4,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Mixed bias with high volatility. Use confirmation only and reduce position size.",
+      "price": 76.199,
+      "changePct": -0.695,
+      "volatility": {
+        "asset": "XAGUSD",
+        "label": "High",
+        "score": 40.64,
+        "rangePct": 2.822,
+        "hv": 54.19,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "SILVER",
+        "index": 81,
+        "trend": "up",
+        "net": -42668,
+        "change": 978
+      },
+      "components": {
+        "trend": -20.3,
+        "cot": 45.2,
+        "news": 100,
+        "volatility": -8
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "OIL",
+      "label": "WTI Crude Oil",
+      "score": 2.2,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Mixed bias with high volatility. Use confirmation only and reduce position size.",
+      "price": 96.6,
+      "changePct": 0.259,
+      "volatility": {
+        "asset": "OIL",
+        "label": "High",
+        "score": 66.97,
+        "rangePct": 4.865,
+        "hv": 68.69,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "CRUDE OIL, LIGHT SWEET-WTI",
+        "index": 85,
+        "trend": "down",
+        "net": 27050,
+        "change": -13045
+      },
+      "components": {
+        "trend": -8.9,
+        "cot": 34,
+        "news": 20,
+        "volatility": -8
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "BTCUSD",
+      "label": "Bitcoin / BTC",
+      "score": -13.9,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Mixed bias with high volatility. Use confirmation only and reduce position size.",
+      "price": 75830.51,
+      "changePct": 0.505,
+      "volatility": {
+        "asset": "BTCUSD",
+        "label": "High",
+        "score": 31.33,
+        "rangePct": 2.363,
+        "hv": 23.78,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "BITCOIN",
+        "index": 2,
+        "trend": "down",
+        "net": -2272,
+        "change": -112
+      },
+      "components": {
+        "trend": 18.1,
+        "cot": -60,
+        "news": 20,
+        "volatility": -8
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    },
+    {
+      "key": "ETHUSD",
+      "label": "Ethereum / ETH",
+      "score": -13.8,
+      "bias": "Neutral",
+      "direction": "neutral",
+      "plan": "Mixed bias with high volatility. Use confirmation only and reduce position size.",
+      "price": 2074.32,
+      "changePct": 0.523,
+      "volatility": {
+        "asset": "ETHUSD",
+        "label": "High",
+        "score": 44.61,
+        "rangePct": 3.397,
+        "hv": 30.73,
+        "formula": "Composite = 12×recent range% + annualized HV/8"
+      },
+      "cot": {
+        "market": "ETHER CASH SETTLED",
+        "index": 0,
+        "trend": "down",
+        "net": -3841,
+        "change": -315
+      },
+      "components": {
+        "trend": 18.3,
+        "cot": -60,
+        "news": 20,
+        "volatility": -8
+      },
+      "method": "Daily automated SMC bias = trend structure + COT index + RSS/JSON news score + volatility filter."
+    }
+  ],
+  "highProbability": {
+    "key": "USDCHF",
+    "label": "USD/CHF",
+    "direction": "BUY bias",
+    "probabilityScore": 73.2,
+    "reason": "COT 93/100 with Bullish daily bias.",
+    "plan": "Wait discount retest + bullish displacement, then buy with defined stop."
+  },
+  "riskWarning": {
+    "level": "High Risk",
+    "title": "investingLive Americas FX news wrap 22 May: Markets eye Iran talks, Fed signals now",
+    "source": "forexlive.com",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-may-markets-eye-iran-talks-fed-signals-now-20260522/",
+    "publishedAt": "Fri, 22 May 2026 20:16:12 GMT",
+    "message": "Reduce size, avoid tight stops, and wait 10–15 minutes after the headline/release before execution.",
+    "plan": "Trade plan: half risk or no trade until candle closes after news spike."
+  },
+  "watchlist": [
+    {
+      "key": "EURUSD",
+      "symbol": "EUR/USD",
+      "trend": "Neutral",
+      "volatility": "Low",
+      "score": 6.9,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "GBPUSD",
+      "symbol": "GBP/USD",
+      "trend": "Neutral",
+      "volatility": "Low",
+      "score": 1.5,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "USDJPY",
+      "symbol": "USD/JPY",
+      "trend": "Bullish",
+      "volatility": "Low",
+      "score": 25.8,
+      "plan": "Buy pullback after confirmation"
+    },
+    {
+      "key": "USDCHF",
+      "symbol": "USD/CHF",
+      "trend": "Bullish",
+      "volatility": "Low",
+      "score": 38.8,
+      "plan": "Buy pullback after confirmation"
+    },
+    {
+      "key": "USDCAD",
+      "symbol": "USD/CAD",
+      "trend": "Neutral",
+      "volatility": "Low",
+      "score": 5.5,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "AUDUSD",
+      "symbol": "AUD/USD",
+      "trend": "Bearish",
+      "volatility": "Low",
+      "score": -23.7,
+      "plan": "Sell rally after confirmation"
+    },
+    {
+      "key": "NZDUSD",
+      "symbol": "NZD/USD",
+      "trend": "Neutral",
+      "volatility": "Medium",
+      "score": -7.2,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "XAUUSD",
+      "symbol": "Gold / XAUUSD",
+      "trend": "Bullish",
+      "volatility": "High",
+      "score": 22.3,
+      "plan": "Buy pullback after confirmation"
+    },
+    {
+      "key": "XAGUSD",
+      "symbol": "Silver / XAGUSD",
+      "trend": "Neutral",
+      "volatility": "High",
+      "score": 16.4,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "OIL",
+      "symbol": "WTI Crude Oil",
+      "trend": "Neutral",
+      "volatility": "High",
+      "score": 2.2,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "BTCUSD",
+      "symbol": "Bitcoin / BTC",
+      "trend": "Neutral",
+      "volatility": "High",
+      "score": -13.9,
+      "plan": "Wait for sweep + confirmation"
+    },
+    {
+      "key": "ETHUSD",
+      "symbol": "Ethereum / ETH",
+      "trend": "Neutral",
+      "volatility": "High",
+      "score": -13.8,
+      "plan": "Wait for sweep + confirmation"
+    }
+  ],
+  "news": {
+    "ok": true,
+    "generatedAt": "2026-05-23T19:57:04.362Z",
+    "sources": [
+      "forexlive.com",
+      "fxstreet.com",
+      "dailyfx.com"
+    ],
+    "sourceUrls": [
+      "https://www.forexlive.com/feed/",
+      "https://www.fxstreet.com/rss/news",
+      "https://www.dailyfx.com/feeds/market-news"
+    ],
+    "errors": [
+      {
+        "source": "dailyfx.com",
+        "url": "https://www.dailyfx.com/feeds/market-news",
+        "error": "HTTP 403"
+      }
+    ],
+    "items": [
+      {
+        "title": "Singapore Dollar: Mild bullish against US Dollar within tight range – UOB",
+        "description": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/SGD to edge lower intraday toward 1.2760, though a sustained break is seen as unlikely, with major support at 1.2730 intact.",
+        "link": "https://www.fxstreet.com/news/singapore-dollar-mild-bullish-against-us-dollar-within-tight-range-uob-202605222112",
+        "publishedAt": "Fri, 22 May 2026 21:12:00 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news"
+      },
+      {
+        "title": "investingLive Americas FX news wrap 22 May: Markets eye Iran talks, Fed signals now",
+        "description": "Stocks remain higher but off highs as hope fades ahead of the weekend for peace Sky News Arabia: Negotiations in Tehran have reached an agreement on nuclear issue Bakers Hughes total rig count 758 in the current week, Up 5 for the week WSJ: Critical Stage in Iran negotiations: Mediators rush to prevent military action New Fed Chair Warsh: Ours is a time of great consequence Trump: I expect Kevin Warsh to go down as one of the very best Fed Chairman. More Waller: Hawkish comments from the Fed Governor Feds Waller: Does not expect change in policy in the near term UMich May final consumer sentiment 44.8 vs 48.2 expected Reuters:Qatar send negotiating team to Tehran to help secure a end of war deal Fed interest rates explained at investingLive.com Canada retail sales for March 0.9% vs 0.6% estimate Canada April PPI +2.0% m/m vs +1.3% expected investingLive European markets wrap: A mixed mood amid cautious optimism on US-Iran talks ECB President Lagarde says ECB will follow a data-dependent, meeting-by-meeting approach The week is ended with markets focused squarely on the growing tension surrounding Iran, as negotiations entered what officials described as a critical stage. Mediators including Pakistan, Qatar, and Saudi Arabia worked urgently to secure at least a temporary framework agreement aimed at preventing renewed U.S. and Israeli military action. The diplomatic effort is centered on extending the cease-fire and buying time for broader negotiations, but major divisions remain — particularly over Iran’s uranium enrichment program and how quickly Tehran must make nuclear concessions in exchange for sanctions relief and an easing of hostilities. Reports indicated there has been only modest progress so far, with both sides still far apart. Iran is seeking sanctions relief, protection from future attacks, and the reopening of trade routes before making major nuclear concessions, while the U.S. is demanding tighter nuclear restrictions, including limits on enrichment and the surrender of near weapons-grade material, before broader relief is offered. Officials warned that if talks fail, the U.S. and Israel could consider renewed strikes, potentially targeting Iranian economic and energy infrastructure to increase pressure on Tehran. Iran responded by warning it would retaliate broadly against any new military action. The geopolitical backdrop remains highly uncertain. Israel is reportedly concerned that President Trump could agree to a deal viewed as too soft on Iran’s nuclear and missile programs, while Prime Minister Netanyahu remains skeptical that diplomacy will succeed. Trump has signaled he prefers a negotiated solution but also warned that military action remains on the table if an agreement cannot be reached. As a result, markets continue to react sharply to every headline tied to the negotiations, with oil prices, Treasury yields, stocks, and the US dollar all seeing heightened volatility into the weekend. PS Pres. Trump will remain in Washington for the weekend and will be missing his son's (Don Jr.). wedding in the Bahamas. The final University of Michigan consumer sentiment report for May painted a weaker picture of the US consumer than expected. The headline index fell to 44.8 from 48.2, marking a third straight monthly decline and pushing sentiment back near the historic lows from mid-2022. Higher gasoline prices tied to Strait of Hormuz supply disruptions remained a key concern, with 57% of consumers citing the rising cost of living as a financial strain. Lower-income households were hit the hardest. Most importantly for markets and the Fed, inflation expectations moved higher again. One-year expectations rose to 4.8% from 4.5%, while five-year expectations jumped to 3.9% from 3.4%, increasing concerns that inflation pressures could become more persistent. The report supports higher yields and a firmer US dollar as it lowers expectations for near-term Fed rate cuts, while also raising concerns about future consumer spending and growth. Fed Governor Christopher Waller reinforced the hawkish tone, pushing back strongly against expectations for near-term rate cuts. Waller said he does not expect to support a policy change anytime soon and warned that inflation risks tied to higher energy prices and rising inflation expectations are becoming more concerning. He said the labor market is now largely balanced, shifting the Fed’s focus squarely toward inflation. Waller warned the Fed’s inflation miss is entering its sixth year and said he would not hesitate to support a rate hike if inflation expectations become unanchored. While not actively calling for a hike now, he argued the Fed should remove its easing bias and said discussions about rate cuts are premature given current inflation pressures. He also noted consumer spending remains resilient and there is no sign the AI-driven investment boom is slowing. President Donald Trump formally swore in Kevin Warsh as the new Fed Chair, praising him as uniquely qualified to lead the institution while emphasizing Fed independence and the importance of sustaining strong economic growth. Trump argued that low inflation and strong growth can coexist and pointed to the stock market rally as evidence investors welcomed Warsh’s appointment. In his remarks, Warsh struck a confident, reform-oriented tone, pledging to lead the Fed with “energy and purpose” while remaining faithful to its mission. He said the years ahead could bring strong prosperity and rising living standards, emphasizing that lower inflation and strong growth are achievable together. Warsh also signaled a willingness to modernize the Fed and learn from both past mistakes and successes. Looking ahead, markets next week traders will focus on inflation, central banks, and geopolitical risks. The key event for the US will be Thursday’s core PCE inflation report — the Fed’s preferred inflation gauge — as Warsh begins his tenure facing elevated inflation expectations and persistent price pressures. Markets will also monitor consumer confidence, GDP revisions, housing data, and Fed speakers including Austan Goolsbee and John Williams. Globally, attention will turn to the RBNZ decision, BOJ commentary, Japan inflation data, China PMIs, and Canada GDP. Geopolitical headlines surrounding Iran remain the key wildcard, with oil, yields, stocks, and the US dollar continuing to react sharply to every new development. Thin holiday liquidity conditions early in the week could amplify volatility. A snapshot of the markets at the end of the week is showing: Dow Industrial Average +0.59% S&P Index +0.33% Nasdaq index. +0.11% For the trading week: Dow +2.10% S&P +0.83% Nasdaq +0.38% In the US debt market, yields are ending the day mixed with a flatter yield curve as the markets price in a hike in 2026 that may lead to slower growth. 2 year 4.123%, +3.6 basis points 5 year 4.256%, +0.01 basis points 10 year 4.558%, =2.6 basis points 30- year 5.064%, -4.7 basis points For the week: 2 year yield rose 4.4 basis points 5 year yield Unchanged 10 year yield -4.1 basis points 30 year yield -5.9 basis points Looking at the USD today, it was mixed vs the major currencies. The USD versus the:: EUR +0.10% JPY +0.12% GBP-0.08% CAD+0.23% CHF -0.245 AUD +0.22% NZD +0.27% For the week, the USD mixed as well. : EUR +0.15% JPY +0.28% GBP +0-.92% CHF -0.19% CAD +0.51% AUD +0.17% NZD -0.34% In other markets: Crude oil is near unchanged at $96.37 and down -4.73% for the week Gold is down -$36 on the day and down -$34 for the day or -0.73% Silver is down -$1.23 on the day at $75.45 and dowjn -0.46% on the week. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-may-markets-eye-iran-talks-fed-signals-now-20260522/",
+        "publishedAt": "Fri, 22 May 2026 20:16:12 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/"
+      },
+      {
+        "title": "AUD/USD Price Forecast: Stuck between key SMAs as RSI turns bearish",
+        "description": "The AUD/USD pair edges lower during the North American session on Friday, poised to remain sideways within key technical support and resistance levels, with the 20-day Simple Moving Average (SMA) at 0.7187 and the 50-day SMA at 0.7095.",
+        "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-stuck-between-key-smas-rsi-turns-bearish-202605222007",
+        "publishedAt": "Fri, 22 May 2026 20:07:38 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news"
+      },
+      {
+        "title": "ASEAN-6 inflation: Pipeline pressures and rate risks – DBS",
+        "description": "DBS Group Research economists Radhika Rao and Chua Han Teng highlight that ASEAN-6 economies are experiencing asymmetric inflation outcomes despite a common energy shock. Indonesia and Malaysia show relatively contained inflation, while Thailand, Vietnam and Philippines face higher readings.",
+        "link": "https://www.fxstreet.com/news/asean-6-inflation-pipeline-pressures-and-rate-risks-dbs-202605221951",
+        "publishedAt": "Fri, 22 May 2026 19:51:00 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news"
+      },
+      {
+        "title": "Stocks remain higher but off highs as hope fades ahead of the weekend for peace",
+        "description": "As the week comes to a close, US stocks are giving back some of their earlier gains. The major indices remain higher on the day, with the Dow up 0.74%, the S&P up 0.46%, and the Nasdaq higher by 0.23%, but all are well off their session highs as traders react to the latest geopolitical headlines. The focus remains on Iran, where reports suggest officials are demanding an end to the conflict from all sides, the lifting of blockades, and the release of frozen funds as part of any broader agreement. At the same time, reports indicate President Trump is growing increasingly frustrated with the situation. He has adjusted his schedule to remain in Washington during the heightened tensions and is expected to miss his son’s wedding this weekend. Reports suggest the event is a small private ceremony in the Bahamas with around 50 guests. It may have been too risky or cumbersome anyway. It is getting tiring. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/news/stocks-remain-higher-but-off-highs-as-hope-fades-ahead-of-the-weekend-for-peace-20260522/",
+        "publishedAt": "Fri, 22 May 2026 19:28:02 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/"
+      },
+      {
+        "title": "Chinese Yuan: Neutral within tight onshore band – UOB",
+        "description": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/CNH to trade quietly between 6.7920 and 6.8060 intraday after recent moves failed to generate fresh momentum.",
+        "link": "https://www.fxstreet.com/news/chinese-yuan-neutral-within-tight-onshore-band-uob-202605221908",
+        "publishedAt": "Fri, 22 May 2026 19:08:00 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news"
+      },
+      {
+        "title": "USDCHF trades new lows for the week but also near key 100 day MA support",
+        "description": "The USDCHF traded to the low for the week on Monday, testing both the May 15 low and the 100-day moving average, where dip buyers stepped in despite a brief break below the MA. That technical level once again proved to be a key barometer for traders. The high for the week came on Tuesday and Wednesday, with the rally extending up to test the 50% retracement level at 0.7901. Sellers leaned against that resistance area, reinforcing the importance of both the 100-day MA on the downside and the 50% midpoint on the topside as defining technical boundaries for the pair. As the week comes to a close, the pair is moving back to the downside as investors seek the relative safety of the CHF heading into the weekend. The price has once again pushed below the 100-day MA near 0.7840, but like the declines seen on May 15 and May 18, downside momentum has slowed after the break. The low price reached 0.7839 — just below the moving average — suggesting sellers are pressing, but have not yet been able to generate sustained downside momentum below the key support level. For sellers to gain more control, they need to stay below the 100-day MA and build momentum beneath it. If they cannot do that, and the price rebounds back above the 200-hour moving average at 0.7853, the bias could shift back to the upside with traders targeting a retracement of this week’s decline. Much may result on the developments in the Middle East. Like all weekends, the market are susceptible to the weekend news headlines.. PS. President Trump said he is expected to miss Donald Trump Jr.’s wedding this weekend because of ongoing tensions involving Iran and other government matters. He said it was “not good timing” to leave Washington during an important period for the country. The wedding to Bettina Anderson is reportedly a small private ceremony in the Bahamas. For what it is worth. This article was written by Greg Michalowski at investinglive.com.",
+        "link": "https://investinglive.com/technical-analysis/usdchf-trades-new-lows-for-the-week-but-also-near-key-100-day-ma-support-20260522/",
+        "publishedAt": "Fri, 22 May 2026 18:41:11 GMT",
+        "source": "forexlive.com",
+        "sourceUrl": "https://www.forexlive.com/feed/"
+      },
+      {
+        "title": "Singapore Dollar: Buy dips against dollar in choppy range – OCBC",
+        "description": "OCBC notes USDSGD is trading choppily in a subdued range, closely tracking moves in the USD, Oil and UST yields. The bank sees mild bullish momentum starting to fade and maintains a bias to sell rallies, with key support around 1.2720/60 and 1.2650/70 and resistance near 1.2840/50.",
+        "link": "https://www.fxstreet.com/news/singapore-dollar-buy-dips-against-dollar-in-choppy-range-ocbc-202605221835",
+        "publishedAt": "Fri, 22 May 2026 18:35:00 Z",
+        "source": "fxstreet.com",
+        "sourceUrl": "https://www.fxstreet.com/rss/news"
+      }
+    ]
+  },
+  "sources": {
+    "market": "Yahoo Finance chart proxy with local cache fallback",
+    "cot": "Existing CFTC COT cache/service",
+    "newsFeeds": [
+      "https://www.forexlive.com/feed/",
+      "https://www.fxstreet.com/rss/news",
+      "https://www.dailyfx.com/feeds/market-news"
+    ]
+  }
+}

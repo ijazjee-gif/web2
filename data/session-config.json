@@ -1,0 +1,9 @@
+{
+  "note": "Dashboard session timings. Edit start/end in UTC, then restart server or refresh dashboard.",
+  "sessions": [
+    { "key": "sydney", "name": "Sydney", "start": "21:00", "end": "06:00", "timezone": "UTC" },
+    { "key": "tokyo", "name": "Tokyo", "start": "00:00", "end": "09:00", "timezone": "UTC" },
+    { "key": "london", "name": "London", "start": "08:00", "end": "17:00", "timezone": "UTC" },
+    { "key": "newyork", "name": "New York", "start": "13:00", "end": "22:00", "timezone": "UTC" }
+  ]
+}

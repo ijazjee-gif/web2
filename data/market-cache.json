@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "provider": "node-market-proxy",
+  "timestamp": 1779566394,
+  "items": {
+    "oil": {
+      "symbol": "CL=F",
+      "price": 96.6,
+      "previous": 96.35,
+      "direction": "up",
+      "decimals": 2,
+      "prefix": "$"
+    },
+    "eurusd": {
+      "symbol": "EURUSD=X",
+      "price": 1.1605,
+      "previous": 1.1624,
+      "direction": "down",
+      "decimals": 4,
+      "prefix": ""
+    },
+    "gold": {
+      "symbol": "GC=F",
+      "price": 4523.2,
+      "previous": 4542.5,
+      "direction": "down",
+      "decimals": 2,
+      "prefix": "$"
+    },
+    "usdjpy": {
+      "symbol": "JPY=X",
+      "price": 159.155,
+      "previous": 158.949,
+      "direction": "up",
+      "decimals": 2,
+      "prefix": ""
+    },
+    "gbpusd": {
+      "symbol": "GBPUSD=X",
+      "price": 1.3434,
+      "previous": 1.343,
+      "direction": "up",
+      "decimals": 4,
+      "prefix": ""
+    }
+  },
+  "missing": []
+}

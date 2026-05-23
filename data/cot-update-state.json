@@ -1,0 +1,12 @@
+{
+  "lastScheduledAttemptDate": "2026-05-22",
+  "lastScheduledAttemptAt": "2026-05-23T13:48:44.195Z",
+  "lastScheduledResult": {
+    "ok": true,
+    "changed": true,
+    "reportDate": "2026-05-19",
+    "markets": 369
+  },
+  "lastScheduledReleaseDate": "2026-05-22",
+  "lastScheduledFetchAt": "2026-05-23T13:48:44.195Z"
+}

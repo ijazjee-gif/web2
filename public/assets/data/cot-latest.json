@@ -1,0 +1,56 @@
+{
+  "last_update_date": "2026-05-15",
+  "report_positions_as_of": "2026-05-12",
+  "downloaded_at": "2026-05-20",
+  "source": "Local packaged COT dataset. Update this file weekly from the official CFTC Commitments of Traders report.",
+  "markets": [
+    {
+      "market": "EUR Futures",
+      "status": "Improving",
+      "badge": "badge-green",
+      "long_interest": 68,
+      "short_pressure": 32,
+      "current_net": 125000,
+      "previous_net": 98000,
+      "institutional_bias": "Bullish improvement",
+      "positioning_note": "Net longs rising",
+      "trading_use": "Look for long setups after liquidity sweep"
+    },
+    {
+      "market": "Gold Futures",
+      "status": "Crowded Long",
+      "badge": "badge-blue",
+      "long_interest": 74,
+      "short_pressure": 26,
+      "current_net": 184000,
+      "previous_net": 171500,
+      "institutional_bias": "Bullish but crowded",
+      "positioning_note": "Long exposure elevated",
+      "trading_use": "Use pullbacks; avoid chasing tops"
+    },
+    {
+      "market": "JPY Futures",
+      "status": "Weak",
+      "badge": "badge-red",
+      "long_interest": 29,
+      "short_pressure": 71,
+      "current_net": -96000,
+      "previous_net": -104000,
+      "institutional_bias": "Bearish with squeeze risk",
+      "positioning_note": "Spec shorts remain heavy",
+      "trading_use": "Follow trend but monitor short squeeze risk"
+    },
+    {
+      "market": "CAD Futures",
+      "status": "Neutral",
+      "badge": "badge-purple",
+      "long_interest": 51,
+      "short_pressure": 49,
+      "current_net": 12000,
+      "previous_net": 15000,
+      "institutional_bias": "Neutral",
+      "positioning_note": "Oil correlation matters",
+      "trading_use": "Confirm with crude trend and USD strength"
+    }
+  ]
+}

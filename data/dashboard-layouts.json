@@ -1,0 +1,19 @@
+{
+  "note": "Per-user dashboard card order is saved here by user id.",
+  "users": {
+    "1": [
+      "gold-risk",
+      "usd-risk",
+      "volatility",
+      "usd-index",
+      "sessions",
+      "currency-strength",
+      "smc-bias",
+      "high-probability",
+      "risk-warning",
+      "watchlist",
+      "pretrade"
+    ]
+  },
+  "updatedAt": "2026-05-23T18:23:19.445Z"
+}
